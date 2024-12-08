@@ -1,53 +1,32 @@
-## Website OF projetos
+## Engenharia & Inovação - Landing Page
 
-![ofprojetos](https://user-images.githubusercontent.com/54041918/146534203-fc249f05-acd3-4c60-9aab-dffa7c35e210.gif)
+### Pré-requisitos
+- Node.js (v18+)
+- npm
 
-Deploy: https://ofprojetos.netlify.app
+### Instalação e Execução
 
-## 🛠 Getting started
-
-Windows:
-
-You can clone the repository through CMD (Command Prompt) just by typing:
-
-```sh
-git clone https://github.com/CristianoFIlho/ofprojetos.github.io.git
+1. Instale as dependências:
+```bash
+npm install
 ```
 
-or download the zip from the green button at the beginning of the repository
+2. Inicie o servidor de desenvolvimento:
+```bash
+npm run dev
+```
 
-<img src="https://i.ibb.co/vLF3fCV/2021-03-24-23-53-10-github-com-f3b0db456e69.png" alt="Download zip" border="0">
+### Scripts Disponíveis
 
+- `npm run dev` - Inicia o servidor de desenvolvimento
+- `npm run build` - Gera a versão de produção
+- `npm run preview` - Visualiza a versão de produção localmente
+- `npm run lint` - Executa a verificação de código
 
-## 🗃 Release history
+### Tecnologias Utilizadas
 
-- 0.0.1
-  - Work in progress
-  
-  
-## 📝 Meta
-
-Cristiano Filho – [Deploy Project](https://ofprojetos.com.br) – dev@cristianofilho.com.br
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-
-[https://github.com/CristianoFIlho/ofprojetos.github.io](https://github.com/CristianoFIlho/ofprojetos.github.io.git)
-
-## 🧙‍♂️ Contribution
-
-1. Make the _fork_ of the project (<https://github.com/CristianoFIlho/ofprojetos.github.io.git/fork>)
-2. Create a _branch_ for your modification (`git checkout -b my-new-resource`)
-3. Do _commit_ (`git commit -am 'Adding a new resource ...'`)
-4. _Push_ (`git push origin my-new-feature`)
-5. Create a new _Pull Request_
-
-**After your pull request is merged**, you can safely delete your branch.
-
----
-## Colaborators
-	
-
-[ <img src="https://avatars.githubusercontent.com/u/54041918?s=400&u=9691b69b1b7c46137971d4b2775228007fff85a9&v=4" width="200px; "/><br><sub><b>Cristiano Filho</b></sub> ](https://github.com/CristianoFilho) 
-
-
-
+- React 18
+- TypeScript
+- Tailwind CSS
+- Shadcn/UI
+- Lucide Icons
