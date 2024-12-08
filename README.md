@@ -30,3 +30,14 @@ npm run dev
 - Tailwind CSS
 - Shadcn/UI
 - Lucide Icons
+
+### Deploy:
+
+`npx vite build`
+
+### Vercel
+
+Open website: 
+
+
+`npm run dev`
